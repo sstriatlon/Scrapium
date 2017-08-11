@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="HtmlAgilityPack" Version="1.5.1" />
+    <PackageReference Include="YahooFinanceApi" Version="1.0.12" />
   </ItemGroup>
 
 </Project>

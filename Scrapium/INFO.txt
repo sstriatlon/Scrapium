@@ -1,2 +1,4 @@
 Api para charts https://lvcharts.net/App
+Parseador de html http://html-agility-pack.net
+Para traer valores de Yahoo https://github.com/lppkarl/YahooFinanceApi
 
